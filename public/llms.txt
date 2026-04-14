@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים כהן לפידיון הבן? אנחנו מחברים בין משפחות לכהן מנוסה ומוסמך לקיום המצווה המרגשת. הזמינו עוד היום וצרו זיכרון בלתי נשכח!
+
+### פרטי השירות
+https://example.com/service-details
+גלו כיצד מתנהל טקס פידיון הבן, פידיון הבן כמה עולה, ומה כולל השירות המלא שלנו. כהן מוסמך, תיאום מהיר ושירות חם ואישי לכל משפחה.
+
+### אודות
+https://example.com/about
+אנחנו כהנים בעלי ניסיון רב בקיום טקסי פידיון הבן ברחבי הארץ. למדו על הרקע שלנו, הערכים שמנחים אותנו, ומדוע אלפי משפחות בחרו בנו לרגע הזה.
+
+### צור קשר
+https://example.com/contact
+רוצים לתאם הזמנת כהן לפידיון הבן? צרו איתנו קשר עכשיו ונחזור אליכם במהירות. תיאום פשוט, מהיר ואישי כדי שהמצווה תתקיים בזמן ובצורה הטובה ביותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
